@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="ui container">
       <header>
-        <h1 className="ui dividing header">React Animal Shelter</h1>
+        <h1 className="ui dividing header">React's Animal Shelter</h1>
       </header>
       <div className="ui container">
         <div className="ui grid">
